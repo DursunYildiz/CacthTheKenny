@@ -1,9 +1,3 @@
-//
-//  SceneDelegate.swift
-//  CacthTheKenny
-//
-//  Created by A101Mac on 30.12.2021.
-//
 
 import UIKit
 
